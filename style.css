@@ -1,0 +1,31 @@
+body {
+        font-family: 'DM Sans', sans-serif;
+        background-color: beige;
+        max-width: 900PX;
+    }
+    h1{
+        font-size: 50px;
+        color: rgb(225, 0, 255);
+    }
+.orrange{
+    color: orange;
+}
+.u-f{
+    background-color: aqua;
+}
+.e-f{
+    background-color: cadetblue;
+}
+span{
+    color: rgb(210, 189, 30);
+}
+a{
+    text-decoration: none;
+    background-color: blue;
+    color: azure;
+    display: block;
+    width: 100%;
+}
+footer{
+    text-align: center;
+}

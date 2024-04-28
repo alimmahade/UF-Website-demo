@@ -29,3 +29,28 @@ a{
 footer{
     text-align: center;
 }
+.organigation{
+    background-color: burlywood;
+}
+.c{
+    background-color: aquamarine;
+    height: 50px;
+    width: 100px;
+}
+.y{
+    background-color: brown;
+    height: 50px;
+    width: 100px;
+}
+.m{
+    background-color: rgb(15, 170, 209);
+    height: 50px; 
+    width: 100px;
+
+}
+.m:hover{
+    background-color: rgb(151, 209, 15);
+    height: 100px; 
+    width: 200px;
+    text-align: center;
+}
